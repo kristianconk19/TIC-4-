@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="LOGO 18.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.57721903"
+     inkscape:cx="228.48357"
+     inkscape:cy="1170.6955"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#000058;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:18.30799866;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3750"
+       width="210.85184"
+       height="132.06685"
+       x="-0.74415332"
+       y="3.035846" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:27.17689705;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 112.47915,22.48317 A 25.210678,25.783649 0 0 0 107.4686,22.978229 25.210678,25.783649 0 0 0 87.392308,51.631778 25.210678,25.783649 0 0 0 114.03616,73.994753 25.210678,25.783649 0 0 0 137.28797,52.08343 l -6.03012,-0.313158 c -6.44985,3.386225 -13.61156,10.687912 -19.28513,9.804569 0.47259,-3.347439 3.93778,-10.557594 12.47831,-13.207979 -7.52235,-1.623266 -10.45307,-7.103435 -12.64057,-13.207981 4.73068,0.582753 9.52037,1.277755 18.47484,9.885701 l 6.90759,0.07958 -0.45424,-3.531052 a 25.210678,25.783649 0 0 0 -24.2595,-19.109944 z"
+       id="path3754"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:27.17689705;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 124.45103,48.366862 0.10232,4.39353 a 25.210678,25.783649 0 0 0 0.12867,-2.59674 z"
+       id="path3732" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.42824459px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.33570611"
+       x="22.982908"
+       y="128.49684"
+       id="text3758"
+       transform="scale(1.2688106,0.7881397)"><tspan
+         sodipodi:role="line"
+         id="tspan3756"
+         x="22.982908"
+         y="128.49684"
+         style="fill:#ffffff;stroke-width:0.33570611">EXMOUTH FISH CO.</tspan></text>
+  </g>
+</svg>
